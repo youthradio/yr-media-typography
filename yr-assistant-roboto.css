@@ -3,6 +3,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 200;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-200.eot'); /* IE9 Compat Modes */
   src: local('Assistant ExtraLight'), local('Assistant-ExtraLight'),
        url('assistant/assistant-v2-latin_hebrew-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -16,6 +17,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 300;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-300.eot'); /* IE9 Compat Modes */
   src: local('Assistant Light'), local('Assistant-Light'),
        url('assistant/assistant-v2-latin_hebrew-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -29,6 +31,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-regular.eot'); /* IE9 Compat Modes */
   src: local('Assistant'), local('Assistant-Regular'),
        url('assistant/assistant-v2-latin_hebrew-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -42,6 +45,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 600;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-600.eot'); /* IE9 Compat Modes */
   src: local('Assistant SemiBold'), local('Assistant-SemiBold'),
        url('assistant/assistant-v2-latin_hebrew-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -55,6 +59,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-700.eot'); /* IE9 Compat Modes */
   src: local('Assistant Bold'), local('Assistant-Bold'),
        url('assistant/assistant-v2-latin_hebrew-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -68,6 +73,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 800;
+  font-display: swap;
   src: url('assistant/assistant-v2-latin_hebrew-800.eot'); /* IE9 Compat Modes */
   src: local('Assistant ExtraBold'), local('Assistant-ExtraBold'),
        url('assistant/assistant-v2-latin_hebrew-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -84,6 +90,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 100;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-100.eot'); /* IE9 Compat Modes */
   src: local('Roboto Thin'), local('Roboto-Thin'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -97,6 +104,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-300.eot'); /* IE9 Compat Modes */
   src: local('Roboto Light'), local('Roboto-Light'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -110,6 +118,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 100;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-100italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-100italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -123,6 +132,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 300;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-300italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Light Italic'), local('Roboto-LightItalic'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -149,6 +159,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-regular.eot'); /* IE9 Compat Modes */
   src: local('Roboto'), local('Roboto-Regular'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -162,6 +173,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-500.eot'); /* IE9 Compat Modes */
   src: local('Roboto Medium'), local('Roboto-Medium'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -175,6 +187,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 500;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-500italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-500italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -188,6 +201,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-700.eot'); /* IE9 Compat Modes */
   src: local('Roboto Bold'), local('Roboto-Bold'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -201,6 +215,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 700;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-700italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -214,6 +229,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 900;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-900.eot'); /* IE9 Compat Modes */
   src: local('Roboto Black'), local('Roboto-Black'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -227,6 +243,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 900;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-900italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Black Italic'), local('Roboto-BlackItalic'),
        url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-900italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
