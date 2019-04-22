@@ -2,12 +2,12 @@
 
 ### All fonts
 ```html
-<link rel="stylesheet" href="https://yri.youthradio.org/yr-typography/yr-typography.css">
+<link rel="stylesheet" href="https://yr.media/statics/yr-media-typography/yr-typography.css">
 ```
 ### Assistant and Roboto
 
 ```html
-<link rel="stylesheet" href="https://yri.youthradio.org/yr-typography/yr-assistant-roboto.css">
+<link rel="stylesheet" href="https://yr.media/statics/yr-media-typography/yr-assistant-roboto.css">
 ```
 
 ### Example
