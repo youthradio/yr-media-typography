@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/youthradio/yr-media-typography#readme",
   "devDependencies": {
-    "node-sass": "^4.10.0",
-    "nodemon": "^1.18.7"
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.1"
   }
 }
