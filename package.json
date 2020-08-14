@@ -5,7 +5,6 @@
   "scripts": {
     "build": "node-sass --import-css true --include-path scss scss/style.scss yr-typography.css",
     "build-icons": "node-sass --import-css true --include-path scss scss/iconsonly.scss yr-icons.css"
-
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,7 @@
   },
   "homepage": "https://github.com/youthradio/yr-media-typography#readme",
   "devDependencies": {
-    "node-sass": "^4.14.0",
-    "nodemon": "^1.19.4"
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4"
   }
 }
