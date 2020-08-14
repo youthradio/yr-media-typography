@@ -10,9 +10,9 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - name: Checkout Git repository
-      - uses: actions/checkout@v2
-      
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Setup Node
         uses: actions/setup-node@v2-beta
         with:
@@ -30,10 +30,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - run: yarn install
-      - run: yarn build
-      - run: yarn build-icons
-      
+      - run: yarn install --frozen-lockfile
+      - run: yarn build-dist
+
+      - name: Deploy GH-Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          allow_empty_commit: true
+          keep_files: false
+          force_orphan: true
+
       - name: Push to Server
         uses: appleboy/ssh-action@master
         with:

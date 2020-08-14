@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "build": "node-sass --import-css true --include-path scss scss/style.scss yr-typography.css",
-    "build-icons": "node-sass --import-css true --include-path scss scss/iconsonly.scss yr-icons.css"
+    "build-icons": "node-sass --import-css true --include-path scss scss/iconsonly.scss yr-icons.css",
+    "build-dist":"yarn build && yarn build-icons"
   },
   "repository": {
     "type": "git",
