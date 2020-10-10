@@ -213,6 +213,7 @@
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 400;
+  font-display: swap;
   src: url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-italic.eot'); /* IE9 Compat Modes */
   src: local('Roboto Italic'), local('Roboto-Italic'),
     url('roboto/roboto-v18-greek_greek-ext_cyrillic-ext_latin-ext_cyrillic_vietnamese_latin-italic.eot?#iefix')
@@ -397,6 +398,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 100;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-100.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-100.eot?#iefix')
@@ -415,6 +417,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 300;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-300.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-300.eot?#iefix')
@@ -433,6 +436,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 200;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-200.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-200.eot?#iefix')
@@ -451,6 +455,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-regular.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-regular.eot?#iefix')
@@ -470,6 +475,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 500;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-500.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-500.eot?#iefix')
@@ -488,6 +494,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 600;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-600.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-600.eot?#iefix')
@@ -506,6 +513,7 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-700.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-700.eot?#iefix')
@@ -524,6 +532,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 100;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-100italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-100italic.eot?#iefix')
@@ -543,6 +552,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 200;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-200italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-200italic.eot?#iefix')
@@ -562,6 +572,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 300;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-300italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-300italic.eot?#iefix')
@@ -581,6 +592,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 400;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-italic.eot?#iefix')
@@ -600,6 +612,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 500;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-500italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-500italic.eot?#iefix')
@@ -619,6 +632,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 600;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-600italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-600italic.eot?#iefix')
@@ -638,6 +652,7 @@
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 700;
+  font-display: swap;
   src: url('roboto-mono/roboto-mono-v12-latin-700italic.eot'); /* IE9 Compat Modes */
   src: local(''),
     url('roboto-mono/roboto-mono-v12-latin-700italic.eot?#iefix')
