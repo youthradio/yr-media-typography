@@ -1,0 +1,24 @@
+{
+  "name": "yr-typography",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node-sass --import-css true --include-path scss scss/style.scss yr-typography.css",
+    "build-icons": "node-sass --import-css true --include-path scss scss/iconsonly.scss yr-icons.css",
+    "build-dist":"yarn build && yarn build-icons"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youthradio/yr-media-typography.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youthradio/yr-media-typography/issues"
+  },
+  "homepage": "https://github.com/youthradio/yr-media-typography#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4"
+  }
+}
